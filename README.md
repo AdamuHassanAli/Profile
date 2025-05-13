@@ -2,10 +2,9 @@
 
 <h2>Cybersecurity Analyst Projects</h2>
 <b>Linux Operating System</b>
-<a href="//"><li>File permissions in Linux</li></a>
+<a href="#"><li>File permissions in Linux</li></a>
+<a href="#"><li>File permissions in Linux</li></a>
+<a href="#"><li>File permissions in Linux</li></a>
 
-
-
-
-
-<h2>Panetrating Testing Projects</h2>
+<h2>Penetrating Testing Projects</h2>
+<a href="#"><li>File permissions in Linux</li></a>
