@@ -2,8 +2,7 @@
 
 <h2>Cybersecurity Analyst Projects</h2>
 <b>Linux Operating System</b>
-  - <li>[File permissions in Linux]()</li>
-  <a href="https://github.com/AdamuHassanAli/Apply-filters-to-SQL-queries"><li>File permissions in Linux</li></a>
+<a href="//"><li>File permissions in Linux</li></a>
 
 
 
