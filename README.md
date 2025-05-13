@@ -8,3 +8,7 @@
 
 <h2>Penetrating Testing Projects</h2>
 <a href="#"><li>File permissions in Linux</li></a>
+
+
+[twitter]: https://x.com/AdamuHassanADK/
+[linkedin]: https://www.linkedin.com/in/adamu-ali-a632b4202/
