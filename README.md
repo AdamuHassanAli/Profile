@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Analyst Projects</h2>
 <b>Linux Operating System</b>
-<a href="#"><li>File permissions in Linux</li></a>
+<a href="https://github.com/AdamuHassanAli/File-permissions-in-Linux/"><li>File permissions in Linux</li></a>
 <a href="#"><li>File permissions in Linux</li></a>
 <a href="#"><li>File permissions in Linux</li></a>
 
