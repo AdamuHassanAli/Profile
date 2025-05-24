@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Analyst Projects</h2>
 <b>Security Audit</b>
-<a href="https://github.com/AdamuHassanAli/Conduct-a-security-audit"><li> Conduct a security audit </li></a>
+<a href="https://github.com/AdamuHassanAli/Conduct-a-security-audit"><li> Internal IT Audit and Risk Assessment for Botium Toys Using NIST Cybersecurity Framework </li></a>
 <a href="#"><li>Conduct a security audit</li></a>
 <br>
 <b>Secure Networks Against DoS Attack</b>
