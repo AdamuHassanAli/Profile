@@ -3,16 +3,15 @@
 <h2>Cybersecurity Analyst Projects</h2>
 <b>Security Audit</b>
 <a href="https://github.com/AdamuHassanAli/Conduct-a-security-audit"><li> Internal IT Audit and Risk Assessment for Botium Toys Using NIST Cybersecurity Framework </li></a>
-<a href="#"><li>Conduct a security audit</li></a>
 <br>
 <b>Secure Networks Against DoS Attack</b>
-<a href="#"><li> File permissions in Linux </li></a>
-<a href="#"><li>File permissions in Linux</li></a>
+<a href="#"><li> Analyze network layer communication </li></a>
+<a href="#"><li> Analyze network attacks </li></a>
 <br>
-<b>Linux Operating System</b>
-<a href="https://github.com/AdamuHassanAli/File-permissions-in-Linux/"><li>File permissions in Linux</li></a>
-<a href="#"><li>File permissions in Linux</li></a>
-<a href="#"><li>File permissions in Linux</li></a>
+<b>Security Hardening</b>
+<a href="#"><li>Apply Operating System Hardening techniques</li></a>
+<a href="#"><li>Analysis of Network Hardening</li></a>
+<a href="#"><li>Use the NIST Cybersecurity Framework to respond to a security incident </li></a>
 
 <h2>Penetrating Testing Projects</h2>
 <a href="#"><li>File permissions in Linux</li></a>
