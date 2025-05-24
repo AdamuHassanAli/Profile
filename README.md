@@ -5,7 +5,7 @@
 <a href="https://github.com/AdamuHassanAli/Conduct-a-security-audit"><li> Internal IT Audit and Risk Assessment for Botium Toys Using NIST Cybersecurity Framework </li></a>
 <br>
 <b>Secure Networks Against DoS Attack</b>
-<a href="#"><li> Analyze network layer communication </li></a>
+<a href="#"><li> Network Protocol Analysis and DNS Failure Investigation for Client Website Access Issue </li></a>
 <a href="#"><li> Analyze network attacks </li></a>
 <br>
 <b>Security Hardening</b>
