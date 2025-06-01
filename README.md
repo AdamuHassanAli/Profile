@@ -4,6 +4,7 @@
 <b>Cyber Defence Frameworks</b>
 <a href="https://github.com/AdamuHassanAli/MITRE"><li>MITRE Cybersecurity Frameworks Lab</li></a>
 <a href="https://github.com/AdamuHassanAli/Pyramid-of-Pain"><li>Pyramid of Pain Lab</li></a>
+<a href="https://github.com/AdamuHassanAli/Cyber-Kill-Chain"><li>Cyber Kill Chain Lab</li></a>
 <br>
 <b>Security Audit</b>
 <a href="https://github.com/AdamuHassanAli/Conduct-a-security-audit"><li> Internal IT Audit and Risk Assessment for Botium Toys Using NIST Cybersecurity Framework </li></a>
