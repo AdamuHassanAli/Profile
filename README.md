@@ -1,7 +1,7 @@
-# <h1>Hi, I'm Adamu Hassan Ali! <br/><a href="https://github.com/AdamuHassanAli">Cybersecurity Analyst</a> | <a href="https://www.linkedin.com/in/adamu-ali-a632b4202//">Junior Panetrating Tester</a>
+# <h1>Hi, I'm Adamu Hassan Ali! <br/><a href="https://www.linkedin.com/in/adamu-ali-a632b4202//">Cyber Security Analyst</a>
 
-<h2>Cybersecurity Analyst Projects</h2>
-<b>Cyber Defence Frameworks</b>
+<h2>Projects</h2>
+<h3>Cyber Defence Frameworks</h3>
 <a href="https://github.com/AdamuHassanAli/MITRE"><li>MITRE Cybersecurity Frameworks Lab</li></a>
 <a href="https://github.com/AdamuHassanAli/Pyramid-of-Pain"><li>Pyramid of Pain Lab</li></a>
 <a href="https://github.com/AdamuHassanAli/Cyber-Kill-Chain"><li>Cyber Kill Chain Lab</li></a>
@@ -9,6 +9,7 @@
 <b>Security Audit</b>
 <a href="https://github.com/AdamuHassanAli/Conduct-a-security-audit"><li> Internal IT Audit and Risk Assessment for Botium Toys Using NIST Cybersecurity Framework </li></a>
 <br>
+<h3>Cyber Threat Intelligence</h3>
 <b>Secure Networks Against DoS Attack</b>
 <a href="https://github.com/AdamuHassanAli/Secure-Networks/"><li> Network Protocol Analysis and DNS Failure Investigation for Client Website Access Issue </li></a>
 <a href="#"><li> Analyze network attacks </li></a>
